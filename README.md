@@ -1,4 +1,4 @@
-# Yongjie Kuang
+# vxi
 
 IT professional and software developer focused on building practical, reliable tools.
 
@@ -16,7 +16,9 @@ I work across software engineering, AI-assisted development, automation, infrast
 
 I publish notes, experiments, and technical write-ups at:
 
-**[aitokenhacks.com](https://aitokenhacks.com/)**
+**[VXI 笔记 · vxi.me](https://vxi.me/)**
+
+GitHub: [@vxime](https://github.com/vxime)
 
 ## Approach
 
