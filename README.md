@@ -16,7 +16,7 @@ I work across software engineering, AI-assisted development, automation, infrast
 
 I publish notes, experiments, and technical write-ups at:
 
-**[VXI 笔记 · vxi.me](https://vxi.me/)**
+**[VXI notes · vxi.me](https://vxi.me/)**
 
 GitHub: [@vxime](https://github.com/vxime)
 
